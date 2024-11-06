@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 6f1a9322547a3594b9aeb7c2fcac4b1c
   m_currentHash:
     serializedVersion: 2
-    Hash: b9c8b74e4101cb963c2fd39500805ba1
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -66,7 +66,7 @@ MonoBehaviour:
       - m_Id: c685fffbf71f9a340a44be42bf11bfdf
         m_Value: ServerData/[BuildTarget]
       - m_Id: 650bb738404b62a499971bff0c3e0f43
-        m_Value: https://github.com/pdogn/T_svr/tree/main/StandaloneWindows64
+        m_Value: https://pdogn.github.io/T_svr/StandaloneWindows64
     m_ProfileEntryNames:
     - m_Id: bf2071b98443560499dfb771414b73d8
       m_Name: BuildTarget
